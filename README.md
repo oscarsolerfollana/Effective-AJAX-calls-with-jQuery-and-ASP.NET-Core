@@ -52,11 +52,11 @@ That means we are able to input as much as we want, ajax will send the correspon
 
 Let's try to write *l*. We will get *Luís*, *Laura* and *Luisa*:
 <br/><br/>
-![alt text](https://github.com/oscarsolerfollana/AJAX-jQuery-request-response-match/blob/master/ReadmeContent/test_l.PNG?raw=true)
+![alt text](https://github.com/oscarsolerfollana/Effective-AJAX-calls-with-jQuery-and-ASP.NET-Core/blob/master/ReadmeContent/test_l.PNG?raw=true)
 <br/><br/>
 And if we write *lu*, we get *Luís* and *Luisa*:
 <br/><br/>
-![alt text](https://github.com/oscarsolerfollana/AJAX-jQuery-request-response-match/blob/master/ReadmeContent/test_lu.PNG?raw=true)
+![alt text](https://github.com/oscarsolerfollana/Effective-AJAX-calls-with-jQuery-and-ASP.NET-Core/blob/master/ReadmeContent/test_lu.PNG?raw=true)
 
 So far, so good.
 
@@ -66,7 +66,7 @@ The problem comes in some cases, when we try to do many inputs (or selections in
 
 Bescause of that, we may have this result (real result trying by myself):
 <br/><br/>
-![alt text](https://github.com/oscarsolerfollana/AJAX-jQuery-request-response-match/blob/master/ReadmeContent/bug.PNG?raw=true)
+![alt text](https://github.com/oscarsolerfollana/Effective-AJAX-calls-with-jQuery-and-ASP.NET-Core/blob/master/ReadmeContent/bug.PNG?raw=true)
 
 In this case, the response related to letter *u* (second request) arrives first. Then, letter *l* response arrives and finally, the result does not match with our text to find.
 
