@@ -104,4 +104,4 @@ success: function (data, textStatus, jqXHR) {
 
 ## License
 
-- **[Copyright 2015 © Óscar Soler Follana](https://github.com/oscarsolerfollana/Effective-AJAX-calls-with-jQuery-and-ASP.NET-Core/blob/master/LICENSE/license.md)**
+- **[Copyright 2020 © Óscar Soler Follana](https://github.com/oscarsolerfollana/Effective-AJAX-calls-with-jQuery-and-ASP.NET-Core/blob/master/LICENSE/license.md)**
