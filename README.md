@@ -5,9 +5,9 @@
 <br/>
 
 #### Table of Contents
-[How it works?](#how-it-works)  
-[Let's test](#lets-test)  
-[Problem](#lets-test)  
+[How it works?](#how-it-works)<br/>
+[Let's test](#lets-test)<br/>
+[Problem](#lets-test)<br/>
 [Solution](#lets-test)
 <br/>
 
